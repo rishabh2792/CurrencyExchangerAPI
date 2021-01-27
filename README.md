@@ -1,3 +1,3 @@
 # CurrencyExchangerAPI
-# npm install then ng serve
-#connect mongodb locally
+# npm install then npm run start
+#connect mongodb locally:-
